@@ -1,0 +1,9 @@
+    <resources>
+    <declare-styleable name="myshow">
+        <attr name="tvTitle" format="string"/>
+        <attr name="titleMinLength" format="integer"/>
+        <attr name="tvHint" format="string"/>
+        <attr name="title" format="color"/>
+        <attr name="tvValue" format="string"/>
+    </declare-styleable>
+</resources>
